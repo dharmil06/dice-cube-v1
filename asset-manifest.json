@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dice-cube-v1/static/css/main.a617e044.chunk.css",
-    "main.js": "/dice-cube-v1/static/js/main.716d4ace.chunk.js",
-    "main.js.map": "/dice-cube-v1/static/js/main.716d4ace.chunk.js.map",
+    "main.js": "/dice-cube-v1/static/js/main.ea6767f6.chunk.js",
+    "main.js.map": "/dice-cube-v1/static/js/main.ea6767f6.chunk.js.map",
     "runtime-main.js": "/dice-cube-v1/static/js/runtime-main.d2b09148.js",
     "runtime-main.js.map": "/dice-cube-v1/static/js/runtime-main.d2b09148.js.map",
     "static/js/2.b186720f.chunk.js": "/dice-cube-v1/static/js/2.b186720f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d2b09148.js",
     "static/js/2.b186720f.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.716d4ace.chunk.js"
+    "static/js/main.ea6767f6.chunk.js"
   ]
 }
