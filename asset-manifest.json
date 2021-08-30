@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/dice-cube-v1/static/css/main.a617e044.chunk.css",
-    "main.js": "/dice-cube-v1/static/js/main.ea6767f6.chunk.js",
-    "main.js.map": "/dice-cube-v1/static/js/main.ea6767f6.chunk.js.map",
+    "main.css": "/dice-cube-v1/static/css/main.5e337403.chunk.css",
+    "main.js": "/dice-cube-v1/static/js/main.c898d1bd.chunk.js",
+    "main.js.map": "/dice-cube-v1/static/js/main.c898d1bd.chunk.js.map",
     "runtime-main.js": "/dice-cube-v1/static/js/runtime-main.d2b09148.js",
     "runtime-main.js.map": "/dice-cube-v1/static/js/runtime-main.d2b09148.js.map",
-    "static/js/2.b186720f.chunk.js": "/dice-cube-v1/static/js/2.b186720f.chunk.js",
-    "static/js/2.b186720f.chunk.js.map": "/dice-cube-v1/static/js/2.b186720f.chunk.js.map",
+    "static/css/2.27dd871e.chunk.css": "/dice-cube-v1/static/css/2.27dd871e.chunk.css",
+    "static/js/2.812edb82.chunk.js": "/dice-cube-v1/static/js/2.812edb82.chunk.js",
+    "static/js/2.812edb82.chunk.js.map": "/dice-cube-v1/static/js/2.812edb82.chunk.js.map",
     "index.html": "/dice-cube-v1/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/dice-cube-v1/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.b186720f.chunk.js.LICENSE.txt": "/dice-cube-v1/static/js/2.b186720f.chunk.js.LICENSE.txt"
+    "static/css/2.27dd871e.chunk.css.map": "/dice-cube-v1/static/css/2.27dd871e.chunk.css.map",
+    "static/css/main.5e337403.chunk.css.map": "/dice-cube-v1/static/css/main.5e337403.chunk.css.map",
+    "static/js/2.812edb82.chunk.js.LICENSE.txt": "/dice-cube-v1/static/js/2.812edb82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d2b09148.js",
-    "static/js/2.b186720f.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.ea6767f6.chunk.js"
+    "static/css/2.27dd871e.chunk.css",
+    "static/js/2.812edb82.chunk.js",
+    "static/css/main.5e337403.chunk.css",
+    "static/js/main.c898d1bd.chunk.js"
   ]
 }
