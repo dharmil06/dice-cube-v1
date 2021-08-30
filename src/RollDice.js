@@ -19,7 +19,7 @@ function RollDice() {
         // Start timer of one sec when rolling start
         setTimeout(() => {
             // Set rolling to false again when time over
-            setRollDicebtn(false)
+            setRollDicebtn(true)
             setRolling(true)
             setDie(0)
             setNumber(0)

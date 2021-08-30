@@ -20,7 +20,7 @@ function DiceResult(props) {
             )
           }else {
             return ( 
-                <Row className="justify-content-center" style={{ height: '160px', marginTop:'80px' }}>
+                <Row className="justify-content-center" style={{ height: '145px', marginTop:'80px' }}>
               <h3>Click on Roll Dice button</h3>
           </Row>
              )
